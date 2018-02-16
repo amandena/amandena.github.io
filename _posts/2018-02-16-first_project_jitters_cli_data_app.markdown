@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "First Project Jitters: CLI Data App"
-date:       2018-02-16 22:00:37 +0000
+title:      "First Project Jitters = CLI Data App"
+date:       2018-02-16 17:00:38 -0500
 permalink:  first_project_jitters_cli_data_app
 ---
 
